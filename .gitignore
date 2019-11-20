@@ -3,3 +3,9 @@
 ################################################################################
 
 /RetailClassifier_WebService/.vs/ImageUpload/v16/Server/sqlite3/db.lock
+/RetailClassifier_WebService/ImageUpload/obj/Release/Package/PackageTmp/bin/Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction.dll
+/RetailClassifier_WebService/ImageUpload/bin/Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction.dll
+/RetailClassifier_WebService/ImageUpload/bin/Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction.xml
+/RetailClassifier_WebService/packages/Microsoft.Azure.CognitiveServices.Search.ImageSearch.2.0.0/lib/netstandard1.4
+/RetailClassifier_WebService/.vs/RetailClassifier_WebService/v16/Server/sqlite3/db.lock
+/RetailClassifier_WebService/packages/Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.0.13.0-preview/lib/netstandard1.4/Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.runtimeconfig.json

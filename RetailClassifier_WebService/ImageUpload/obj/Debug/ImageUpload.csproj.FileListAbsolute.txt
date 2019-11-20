@@ -1,0 +1,684 @@
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\ImageUpload.dll.config
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\ImageUpload.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\ImageUpload.pdb
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\csc.exe
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\csc.exe.config
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\csc.rsp
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\csi.exe
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\csi.exe.config
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\csi.rsp
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\System.AppContext.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\System.Console.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\System.IO.Compression.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\System.IO.Pipes.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\System.Security.Claims.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\System.Threading.Thread.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\System.ValueTuple.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\System.Xml.XPath.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\vbc.exe
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\vbc.exe.config
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\vbc.rsp
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\VBCSCompiler.exe
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\EntityFramework.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\EntityFramework.SqlServer.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\Newtonsoft.Json.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\System.Net.Http.Formatting.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\System.Web.Helpers.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\System.Web.Http.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\System.Web.Http.WebHost.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\System.Web.Mvc.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\System.Web.Razor.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\System.Web.Webpages.Deployment.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\System.Web.Webpages.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\System.Web.Webpages.Razor.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\EntityFramework.xml
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\EntityFramework.SqlServer.xml
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\System.Web.Razor.xml
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\System.Web.Webpages.xml
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\System.Web.Webpages.Deployment.xml
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\System.Web.Webpages.Razor.xml
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\System.Web.Helpers.xml
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\System.Web.Mvc.xml
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\Newtonsoft.Json.xml
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\System.Net.Http.Formatting.xml
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\System.Web.Http.xml
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\System.Web.Http.WebHost.xml
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\tr\System.Web.Razor.resources.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\tr\System.Net.Http.Formatting.resources.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\tr\System.Web.Http.resources.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\bin\tr\System.Web.Http.WebHost.resources.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\obj\Debug\ImageUpload.csprojResolveAssemblyReference.cache
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\obj\Debug\ImageUpload.csproj.CoreCompileInputs.cache
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\obj\Debug\ImageUpload.csproj.CopyComplete
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\obj\Debug\ImageUpload.dll
+C:\Users\M'ehmet KANBAZ\source\repos\ImageUpload\ImageUpload\obj\Debug\ImageUpload.pdb
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\ImageUpload.dll.config
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\ImageUpload.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\ImageUpload.pdb
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\csc.exe
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\csc.exe.config
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\csc.rsp
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\csi.exe
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\csi.exe.config
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\csi.rsp
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\System.AppContext.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\System.Console.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\System.IO.Compression.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\System.ValueTuple.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\System.Xml.XPath.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\vbc.exe
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\vbc.exe.config
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\vbc.rsp
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\VBCSCompiler.exe
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\EntityFramework.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\EntityFramework.SqlServer.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\Newtonsoft.Json.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\System.Net.Http.Formatting.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\System.Web.Helpers.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\System.Web.Http.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\System.Web.Http.WebHost.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\System.Web.Mvc.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\System.Web.Razor.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\System.Web.Webpages.Deployment.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\System.Web.Webpages.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\System.Web.Webpages.Razor.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\EntityFramework.xml
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\EntityFramework.SqlServer.xml
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\System.Web.Razor.xml
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\System.Web.Webpages.xml
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\System.Web.Webpages.Deployment.xml
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\System.Web.Webpages.Razor.xml
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\System.Web.Helpers.xml
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\System.Web.Mvc.xml
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\Newtonsoft.Json.xml
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\System.Net.Http.Formatting.xml
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\System.Web.Http.xml
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\System.Web.Http.WebHost.xml
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\tr\System.Web.Razor.resources.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\tr\System.Net.Http.Formatting.resources.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\tr\System.Web.Http.resources.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\tr\System.Web.Http.WebHost.resources.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\obj\Debug\ImageUpload.csprojAssemblyReference.cache
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\obj\Debug\ImageUpload.csproj.CoreCompileInputs.cache
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\obj\Debug\ImageUpload.csproj.CopyComplete
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\obj\Debug\ImageUpload.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\obj\Debug\ImageUpload.pdb
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction.xml
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\System.Net.Http.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\System.Net.Sockets.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\devNXT\Desktop\Asp.NET-Web-Api-mage-Upload-master\ImageUpload\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\ImageUpload.dll.config
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\ImageUpload.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\ImageUpload.pdb
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\csc.exe
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\csc.exe.config
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\csc.rsp
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\csi.exe
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\csi.exe.config
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\csi.rsp
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.AppContext.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Console.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.IO.Compression.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Net.Http.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Net.Sockets.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.ValueTuple.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Xml.XPath.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\vbc.exe
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\vbc.exe.config
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\vbc.rsp
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\VBCSCompiler.exe
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\EntityFramework.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\EntityFramework.SqlServer.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\Newtonsoft.Json.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Net.Http.Formatting.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Web.Helpers.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Web.Http.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Web.Http.WebHost.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Web.Mvc.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Web.Razor.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Web.WebPages.Deployment.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Web.WebPages.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Web.WebPages.Razor.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\EntityFramework.xml
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\EntityFramework.SqlServer.xml
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction.xml
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\Newtonsoft.Json.xml
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Net.Http.Formatting.xml
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Web.Helpers.xml
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Web.Http.xml
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Web.Http.WebHost.xml
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Web.Mvc.xml
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Web.Razor.xml
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Web.WebPages.xml
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Web.WebPages.Deployment.xml
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Web.WebPages.Razor.xml
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\tr\System.Net.Http.Formatting.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\tr\System.Web.Http.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\tr\System.Web.Http.WebHost.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\tr\System.Web.Razor.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\obj\Debug\ImageUpload.csprojAssemblyReference.cache
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\obj\Debug\ImageUpload.csproj.CoreCompileInputs.cache
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\obj\Debug\ImageUpload.csproj.CopyComplete
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\obj\Debug\ImageUpload.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\obj\Debug\ImageUpload.pdb
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\Microsoft.Win32.Primitives.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\netstandard.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.AppContext.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Collections.Concurrent.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Collections.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Collections.NonGeneric.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Collections.Specialized.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.ComponentModel.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.ComponentModel.Primitives.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Console.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Data.Common.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Diagnostics.Contracts.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Diagnostics.Debug.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Diagnostics.Process.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Diagnostics.StackTrace.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Diagnostics.Tools.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Diagnostics.TraceSource.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Diagnostics.Tracing.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Drawing.Primitives.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Dynamic.Runtime.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Globalization.Calendars.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Globalization.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Globalization.Extensions.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.IO.Compression.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.IO.Compression.ZipFile.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.IO.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.IO.FileSystem.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.IO.IsolatedStorage.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.IO.Pipes.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Linq.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Linq.Expressions.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Linq.Parallel.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Linq.Queryable.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Net.Http.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Net.NameResolution.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Net.NetworkInformation.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Net.Ping.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Net.Primitives.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Net.Requests.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Net.Security.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Net.Sockets.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Net.WebHeaderCollection.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Net.WebSockets.Client.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Net.WebSockets.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.ObjectModel.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Reflection.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Reflection.Extensions.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Reflection.Primitives.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Resources.Reader.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Resources.ResourceManager.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Resources.Writer.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Runtime.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Runtime.Extensions.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Runtime.Handles.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Runtime.InteropServices.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Runtime.Numerics.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Runtime.Serialization.Json.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Security.Claims.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Security.Cryptography.Csp.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Security.Principal.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Security.SecureString.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Text.Encoding.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Text.Encoding.Extensions.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Text.RegularExpressions.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Threading.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Threading.Overlapped.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Threading.Tasks.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Threading.Thread.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Threading.ThreadPool.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Threading.Timer.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.ValueTuple.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Xml.ReaderWriter.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Xml.XDocument.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Xml.XmlDocument.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Xml.XmlSerializer.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Xml.XPath.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Xml.XPath.XDocument.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\Microsoft.CodeAnalysis.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Buffers.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Collections.Immutable.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Composition.AttributedModel.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Composition.Convention.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Composition.Hosting.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Composition.Runtime.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Composition.TypedParts.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Memory.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Numerics.Vectors.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Reflection.Metadata.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Text.Encoding.CodePages.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\Microsoft.CodeAnalysis.pdb
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\Microsoft.CodeAnalysis.xml
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\Microsoft.CodeAnalysis.Workspaces.pdb
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\Microsoft.CodeAnalysis.Workspaces.xml
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Buffers.xml
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Collections.Immutable.xml
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Memory.xml
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Numerics.Vectors.xml
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Reflection.Metadata.xml
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devNXT\Desktop\RetailClassifier_WebService\ImageUpload\bin\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\ImageUpload.dll.config
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\ImageUpload.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\ImageUpload.pdb
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\csc.exe
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\csc.exe.config
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\csc.rsp
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\csi.exe
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\csi.exe.config
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\csi.rsp
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.AppContext.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Console.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.IO.Compression.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Net.Http.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Net.Sockets.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.ValueTuple.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Xml.XPath.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\vbc.exe
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\vbc.exe.config
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\vbc.rsp
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\VBCSCompiler.exe
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\Microsoft.Win32.Primitives.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\netstandard.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.AppContext.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Collections.Concurrent.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Collections.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Collections.NonGeneric.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Collections.Specialized.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.ComponentModel.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.ComponentModel.Primitives.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Console.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Data.Common.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Diagnostics.Contracts.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Diagnostics.Debug.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Diagnostics.Process.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Diagnostics.StackTrace.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Diagnostics.Tools.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Diagnostics.TraceSource.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Diagnostics.Tracing.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Drawing.Primitives.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Dynamic.Runtime.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Globalization.Calendars.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Globalization.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Globalization.Extensions.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.IO.Compression.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.IO.Compression.ZipFile.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.IO.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.IO.FileSystem.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.IO.IsolatedStorage.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.IO.Pipes.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Linq.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Linq.Expressions.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Linq.Parallel.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Linq.Queryable.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Net.Http.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Net.NameResolution.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Net.NetworkInformation.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Net.Ping.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Net.Primitives.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Net.Requests.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Net.Security.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Net.Sockets.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Net.WebHeaderCollection.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Net.WebSockets.Client.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Net.WebSockets.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.ObjectModel.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Reflection.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Reflection.Extensions.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Reflection.Primitives.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Resources.Reader.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Resources.ResourceManager.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Resources.Writer.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Runtime.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Runtime.Extensions.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Runtime.Handles.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Runtime.InteropServices.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Runtime.Numerics.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Runtime.Serialization.Json.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Security.Claims.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Security.Cryptography.Csp.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Security.Principal.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Security.SecureString.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Text.Encoding.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Text.Encoding.Extensions.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Text.RegularExpressions.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Threading.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Threading.Overlapped.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Threading.Tasks.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Threading.Thread.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Threading.ThreadPool.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Threading.Timer.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.ValueTuple.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Xml.ReaderWriter.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Xml.XDocument.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Xml.XmlDocument.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Xml.XmlSerializer.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Xml.XPath.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Xml.XPath.XDocument.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\EntityFramework.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\EntityFramework.SqlServer.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\Microsoft.CodeAnalysis.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\Newtonsoft.Json.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Buffers.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Collections.Immutable.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Composition.AttributedModel.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Composition.Convention.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Composition.Hosting.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Composition.Runtime.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Composition.TypedParts.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Memory.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Net.Http.Formatting.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Numerics.Vectors.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Reflection.Metadata.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Text.Encoding.CodePages.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Web.Helpers.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Web.Http.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Web.Http.WebHost.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Web.Mvc.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Web.Razor.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Web.WebPages.Deployment.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Web.WebPages.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Web.WebPages.Razor.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\EntityFramework.xml
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\EntityFramework.SqlServer.xml
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction.xml
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\Microsoft.CodeAnalysis.pdb
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\Microsoft.CodeAnalysis.xml
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\Microsoft.CodeAnalysis.Workspaces.pdb
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\Microsoft.CodeAnalysis.Workspaces.xml
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\Newtonsoft.Json.xml
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Buffers.xml
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Collections.Immutable.xml
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Memory.xml
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Net.Http.Formatting.xml
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Numerics.Vectors.xml
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Reflection.Metadata.xml
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Web.Helpers.xml
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Web.Http.xml
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Web.Http.WebHost.xml
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Web.Mvc.xml
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Web.Razor.xml
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Web.WebPages.xml
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Web.WebPages.Deployment.xml
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\System.Web.WebPages.Razor.xml
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\tr\System.Net.Http.Formatting.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\tr\System.Web.Http.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\tr\System.Web.Http.WebHost.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\tr\System.Web.Razor.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\obj\Debug\ImageUpload.csprojAssemblyReference.cache
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\obj\Debug\ImageUpload.csproj.CopyComplete
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\obj\Debug\ImageUpload.dll
+C:\Users\devNXT\Desktop\veg calssifier\RetailClassifier_WebService\ImageUpload\obj\Debug\ImageUpload.pdb
